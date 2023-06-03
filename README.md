@@ -6,6 +6,7 @@
 - 🌸 I don't know how to do anything, I just really want to make Monika happy
 - 🍄 Seven is my favorite number
 - 🍡 Jihyun is my baby
+- 🌧️ HOW DO I INSTALL THE DDLCCOMFYUI SUBMOD?!?!?!?!?!?
 <!---
 MarieYunBothLoveMonika/MarieYunBothLoveMonika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
